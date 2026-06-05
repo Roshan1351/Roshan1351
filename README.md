@@ -24,9 +24,12 @@
 
 ## 🧠 About Me
 
-* 🌱 Currently learning **Java** and backend development
-* 🎯 Goal: Become a **Java Full Stack Developer**
-* 💡 Passionate about building scalable web applications and solving real-world problems
+* 🎓 B.Sc Computer Science Student at BK Birla College, Kalyan
+* 🌱 Currently learning Java and backend development
+* 💻 Passionate about building scalable and efficient web applications
+* 🚀 Aspiring Java Full Stack Developer
+* 📚 Building backend applications with Spring Boot, Spring Data JPA, and MySQL
+* 🎯 Constantly improving my problem-solving and software development skills
 
 ---
 
