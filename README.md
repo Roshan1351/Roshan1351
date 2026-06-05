@@ -35,32 +35,47 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,cs,sql" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" /> </p>
+<p> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" /> <img src="https://
+img.shields.io/badge/Java%2025-007396?style=for-the-badge" /> </p>
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=html,css" /> </p>
 
-<p>
-  <img src="https://img.shields.io/badge/JSP-323330?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge" />
-</p>
+### ⚙️ Backend Development
 
-### ⚙️ Tools & Technologies
+<p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" /> <img src="https://
+img.shields.io/badge/JSP-323330?style=for-the-badge" /> <img src="https://img.shields.io/badge/
+Servlet-6DB33F?style=for-the-badge" /> <img src="https://img.shields.io/badge/JDBC-007396?style=forthe-badge" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,mysql" />
-</p>
+### 🚀 Frameworks & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge" />
-</p>
+<p> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-thebadge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/
+Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://
+img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge" /> <img src="https://
+img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge" /> <img src="https://
+img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> </
+p>
+
+### 🗄️ Database
+
+<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-thebadge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=forthe-badge" /> </p>
+
+### 🔧 Build Tools
+
+<p> <img src="https://skillicons.dev/icons?i=maven" /> </p>
+
+### 🌐 Application Server
+
+<p> <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-thebadge&logo=apachetomcat&logoColor=black" /> </p>
+
+### 🛠️ Tools & Version Control
+
+<p> <img src="https://skillicons.dev/icons?i=git,github" /> </p>
 
 ---
 
@@ -78,6 +93,19 @@
 * Students can submit feedback
 * Admin can view, delete, and update status (Pending → Resolved)
 * Includes 6 web pages
+
+### 🎓 Student REST API
+
+* Developed using Spring Boot
+* RESTful API implementation following CRUD operations
+* Layered Architecture (Controller, Service, Repository)
+* Uses Spring Data JPA for database interaction
+* MySQL database integration
+* Exception handling and validation support
+* API endpoints tested using Postman
+* Maven-based project structure
+* Scalable backend architecture for student management operations
+* GitHub Repository: https://github.com/Roshan1351/student-Rest-API
 
 ---
 
