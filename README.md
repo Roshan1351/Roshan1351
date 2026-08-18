@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Giri</h1>
 
 <p align="center">
-💻 Computer Science Student (B.Sc CS) • 📍 BK Birla College, Kalyan • 🚀 Aspiring Java Full Stack Developer
+💻 Computer Science Student (B.Sc CS) • 📍 BK Birla College, Kalyan • 🚀 Java Developer
 </p>
 
 <p align="center">
