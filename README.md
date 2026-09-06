@@ -63,7 +63,7 @@
 
 ### 🌐 Frontend Development
 <p><img src="https://skillicons.dev/icons?i=html,css" /></p>
-<p><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></p>
+<!-- <p><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></p> -->
 
 ### 🗄️ Database & Build Tools
 <p><img src="https://skillicons.dev/icons?i=mysql,maven,git,github" /></p>
