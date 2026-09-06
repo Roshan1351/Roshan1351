@@ -5,18 +5,28 @@
 <h1 align="center">Hi 👋, I'm Roshan Giri</h1>
 
 <p align="center">
-💻 Computer Science Student (B.Sc CS) • 📍 BK Birla College, Kalyan • 🚀 Java Developer
+💻 Final-Year CS Student • ☕ Java & Spring Boot Backend Developer • 📍 Murbad, Maharashtra, India
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Backend+Developer;Building+BugTrack+-+a+Smart+Bug+Tracker;400%2B+LeetCode+Problems+Solved;Open+to+Internship+%26+Jobs+Opportunities" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roshan-giri123/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://roshan1351.github.io/My_Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://roshan-giri-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://roshan-giri-dev.vercel.app/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/RoshanGiri/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:roshangiri711@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -24,97 +34,133 @@
 
 ## 🧠 About Me
 
-* 🎓 B.Sc Computer Science Student at BK Birla College, Kalyan
-* 🌱 Currently learning Java and backend development
-* 💻 Passionate about building scalable and efficient web applications
-* 🚀 Aspiring Java Full Stack Developer
-* 📚 Building backend applications with Spring Boot, Spring Data JPA, and MySQL
-* 🎯 Constantly improving my problem-solving and software development skills
+- 🎓 Final-year **Computer Science** student at BKBCK — University of Mumbai (2024–2027)
+- ☕ Specializing in **backend development** with **Java & Spring Boot**
+- 🐞 Currently building **BugTrack** — a smart bug-tracking & project management system — as my final year project
+- 🧮 400+ DSA problems solved on LeetCode — Contest Rating **1330** (Top 95.14%)
+- 🌱 Deepening my knowledge of Java Streams, Optional, and advanced Spring concepts
+- 🎯 Preparing for backend developer **internships & job opportunities**
+- 💬 Ask me about Java, Spring Boot, REST APIs, or DSA
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
-<p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" /> </p>
-<p> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" /> <img src="https://
-img.shields.io/badge/Java%2025-007396?style=for-the-badge" /> </p>
-
-### 🌐 Frontend Development
-
-<p> <img src="https://skillicons.dev/icons?i=html,css" /> </p>
+<p><img src="https://skillicons.dev/icons?i=java,cpp,cs,js,py" /></p>
 
 ### ⚙️ Backend Development
+<p>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JSP-323330?style=for-the-badge" />
+</p>
 
-<p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" /> <img src="https://
-img.shields.io/badge/JSP-323330?style=for-the-badge" /> <img src="https://img.shields.io/badge/
-Servlet-6DB33F?style=for-the-badge" /> <img src="https://img.shields.io/badge/JDBC-007396?style=forthe-badge" /> </p>
+### 🌐 Frontend Development
+<p><img src="https://skillicons.dev/icons?i=html,css" /></p>
+<p><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></p>
 
-### 🚀 Frameworks & Technologies
+### 🗄️ Database & Build Tools
+<p><img src="https://skillicons.dev/icons?i=mysql,maven,git,github" /></p>
 
-<p> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-thebadge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/
-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://
-img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge" /> <img src="https://
-img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge" /> <img src="https://
-img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> </
-p>
-
-### 🗄️ Database
-
-<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-thebadge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=forthe-badge" /> </p>
-
-### 🔧 Build Tools
-
-<p> <img src="https://skillicons.dev/icons?i=maven" /> </p>
+### 🧰 IDE & Testing
+<p>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ### 🌐 Application Server
-
-<p> <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-thebadge&logo=apachetomcat&logoColor=black" /> </p>
-
-### 🛠️ Tools & Version Control
-
-<p> <img src="https://skillicons.dev/icons?i=git,github" /> </p>
+<p><img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /></p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### 🐞 [BugTrack — Smart Bug Tracking & Project Management System](https://github.com/Roshan1351/bugtrack)
+`🚧 In Development` · Final-year project
+
+A bug-tracking platform built around three differentiating "smart" features:
+- **Smart Duplicate Bug Detection** — string-similarity matching flags likely duplicate reports
+- **Workload-Balanced Auto-Assignment** — SQL aggregate queries distribute bugs evenly across a team
+- **Automated SLA Engine** — Spring `@Scheduled` jobs track and enforce SLA deadlines
+
+**Stack:** Java 17 · Spring Boot · Spring Security (JWT) · MySQL · HTML/CSS/JS · Bootstrap 5
+
+### 🔐 [Spring Boot Authentication Service](https://github.com/Roshan1351/spring-boot-auth-service)
+`✅ Completed`
+
+A secure authentication microservice with email-OTP verification, login, and forgot/reset-password flows.
+
+**Stack:** Java · Spring Boot · Spring Security · Spring Data JPA · MySQL
+
+### 🎓 [Student Management REST API](https://github.com/Roshan1351/student-Rest-API)
+`✅ Completed`
+
+A RESTful backend for student records with a clean Controller–Service–Repository architecture — full CRUD, JPA-based MySQL persistence, exception handling & validation, tested end-to-end with Postman.
+
+**Stack:** Java · Spring Boot · Spring Data JPA · MySQL · Maven
+
+### 📝 [Student Feedback Management System](https://github.com/Roshan1351/StudentFeedbackSystem)
+`✅ Completed`
+
+Built with ASP.NET (C#) — students submit feedback, admins can view, update, and resolve it (Pending → Resolved) across 6 web pages.
 
 ### 🌐 Personal Portfolio
+Rebuilt with semantic HTML5, CSS custom properties, fluid typography (`clamp()`), and CSS Grid.
+🔗 Live: [roshan-giri-dev.vercel.app](https://roshan-giri-dev.vercel.app)
 
-* Responsive portfolio website using HTML & CSS
-* Showcases my skills and projects
-* 🔗 [https://roshan1351.github.io/My_Portfolio/](https://roshan1351.github.io/My_Portfolio/)
+🔭 More DSA practice in my [NeetCode submissions](https://github.com/Roshan1351/neetcode-submissions) repo, and other projects on my [repositories tab](https://github.com/Roshan1351?tab=repositories).
 
-### 📝 Student Feedback Management System
+---
 
-* Built using ASP.NET (C#)
-* Students can submit feedback
-* Admin can view, delete, and update status (Pending → Resolved)
-* Includes 6 web pages
+## 🧮 DSA Journey
 
-### 🎓 Student REST API
+<p>
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Contest%20Rating-1330-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Top-95.14%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
 
-* Developed using Spring Boot
-* RESTful API implementation following CRUD operations
-* Layered Architecture (Controller, Service, Repository)
-* Uses Spring Data JPA for database interaction
-* MySQL database integration
-* Exception handling and validation support
-* API endpoints tested using Postman
-* Maven-based project structure
-* Scalable backend architecture for student management operations
-* GitHub Repository: https://github.com/Roshan1351/student-Rest-API
+---
+
+## 📊 GitHub Stats
+
+<!-- <p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Roshan1351&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1351&layout=compact&theme=tokyonight&hide_border=true" />
+</p> -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Roshan1351&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏅 Certifications
+
+- 🏆 Google Developer Program — *Use Spring Boot* Badge (Aug 2026)
+- ☕ HackerRank — Java (Basic)
+- 🗄️ HackerRank — SQL (Basic)
+- 🔥 LeetCode — 50 Days Badge
+- 🐍 Python Programming
+- 🤖 Artificial Intelligence (Introductory)
+- 🎨 Front-End Development (HTML, CSS, JavaScript)
+- ✨ Generative AI Workshop
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/roshan-giri123/](https://www.linkedin.com/in/roshan-giri123/)
-* 🌍 Portfolio: [https://roshan1351.github.io/My_Portfolio/](https://roshan1351.github.io/My_Portfolio/)
-* 📸 Instagram: [https://www.instagram.com/roshan_goswami_2006/?hl=en](https://www.instagram.com/roshan_goswami_2006/?hl=en)
-* 💻 LeetCode: [https://leetcode.com/u/RoshanGiri/](https://leetcode.com/u/RoshanGiri/)
+- 💼 LinkedIn: [roshan-giri123](https://www.linkedin.com/in/roshan-giri123/)
+- 🌍 Portfolio: [roshan-giri-dev.vercel.app](https://roshan-giri-dev.vercel.app)
+- 💻 LeetCode: [RoshanGiri](https://leetcode.com/u/RoshanGiri/)
+- 📸 Instagram: [@roshan_goswami_2006](https://www.instagram.com/roshan_goswami_2006/?hl=en)
+- 📫 Email: [roshangiri711@gmail.com](mailto:roshangiri711@gmail.com)
 
 ---
 
