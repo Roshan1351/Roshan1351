@@ -146,11 +146,11 @@ Rebuilt with semantic HTML5, CSS custom properties, fluid typography (`clamp()`)
 - 🏆 Google Developer Program — *Use Spring Boot* Badge (Aug 2026)
 - ☕ HackerRank — Java (Basic)
 - 🗄️ HackerRank — SQL (Basic)
-- 🔥 LeetCode — 50 Days Badge
+- 🔥 LeetCode — 200 Days Badge 2025
+- ✨ Leetcode — 100 Days Badge 2026
 - 🐍 Python Programming
-- 🤖 Artificial Intelligence (Introductory)
+- 🤖 Oracle AI Foundation Certificate
 - 🎨 Front-End Development (HTML, CSS, JavaScript)
-- ✨ Generative AI Workshop
 
 ---
 
